@@ -1,0 +1,3 @@
+Experiment 1: Git Branch Operations
+Branch Name: feature-branch
+This file was created in a new Git branch.
